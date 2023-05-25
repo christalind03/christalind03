@@ -1,7 +1,15 @@
-<h1 align="center"><strong>:wave: Hi, I'm <a href="https://github.com/christalind03">Christalin Dorsey</a></strong></h1>
+<h3 align="center"><samp>&gt; Hello, World! I'm Christalin Dorsey</samp></h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/christalind03/">LinkedIn</a> • <a href="https://www.instagram.com/christalin.d/">Instagram</a>
+<p align="center">
+  <samp>
+    Aspiring software engineer and student at <a href="https://www.unr.edu/"> The University of Nevada, Reno </a>
+  </samp>
+  
+  <br>
+  <br>
+  · · ─────── ·𖥸· ─────── · ·
 </p>
 
-I'm a Computer Science and Engineering undergraduate at <a href="https://www.unr.edu/">The University of Nevada, Reno (UNR)</a> who always strives to improve my skills and learn something new everyday. I'm strongly passionate about building products that serve users on a daily basis such as software engineering and game development.
+<h3><samp>🗒️ Featured Projects</samp></h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christalind03&repo=JETRIS-Rehydrated&title_color=152238&text_color=152238&icon_color=1522380&border_color=f5f5f5&bg_color=f5f5f5)](https://github.com/christalind03/JETRIS-Rehydrated)
