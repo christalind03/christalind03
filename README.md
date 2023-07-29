@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Aspiring software engineer and student at <a href="https://www.unr.edu/"> The University of Nevada, Reno </a>
+    Aspiring software engineer and game developer. Student at <a href="https://www.unr.edu/"> The University of Nevada, Reno </a>
   </samp>
   
   <br>
