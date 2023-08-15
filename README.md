@@ -13,4 +13,3 @@
 <h3><samp>🗒️ Featured Projects</samp></h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christalind03&repo=JETRIS-Rehydrated&title_color=152238&text_color=152238&icon_color=1522380&border_color=f5f5f5&bg_color=f5f5f5)](https://github.com/christalind03/JETRIS-Rehydrated)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christalind03&repo=Clip-It&title_color=152238&text_color=152238&icon_color=1522380&border_color=f5f5f5&bg_color=f5f5f5)](https://github.com/christalind03/Clip-It)
